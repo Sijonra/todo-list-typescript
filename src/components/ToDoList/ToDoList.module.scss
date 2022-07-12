@@ -1,0 +1,24 @@
+.ToDoList{
+  width: 600px;
+  min-height: 450px;
+  background: #F9F7F7;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+
+.title{
+  margin: 20px 0 10px 0;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  color: #112D4E;
+}
+
+.toDoItems{
+  width: 500px;
+  margin: 16px auto 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.5);
+  padding-top: 16px;
+}
